@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/ansarac/aurora
+  GHCR_REPO: ghcr.io/ansarac/gen-api
 
 jobs:
   main:
